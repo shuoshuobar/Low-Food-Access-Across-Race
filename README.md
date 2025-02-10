@@ -1,7 +1,7 @@
 # Low Food Access Continued to be Unsettling, Regardless of Race
 
 ## Goal: 
-### Compare and see how the low food access situation has changed across 7 racial groups (American Indians or Alaska Natives, Asians, Black or African Americans, Hispanic or Latino, Native Hawaiians and other Pacific Islanders, White and people with other or multiple race) from 2015 to 2019.
+#### Compare and see how the low food access situation has changed across 7 racial groups (American Indians or Alaska Natives, Asians, Black or African Americans, Hispanic or Latino, Native Hawaiians and other Pacific Islanders, White and people with other or multiple race) from 2015 to 2019.
 
 ## Findings: 
 ### While low food access appeared on the mend for most racial groups since 2015, a growing number of Black or African Americans still faced challenges accessing food resources in 2019. Native Hawaiians and other Pacific Islanders, as well as American Indians or Alaska Natives, came with the most notable improving shifts.
